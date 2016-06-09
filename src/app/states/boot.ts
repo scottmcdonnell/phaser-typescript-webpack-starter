@@ -1,5 +1,5 @@
-import * as Phaser from 'phaser'
-import * as WebFont from 'webfontloader'
+import * as Phaser from 'phaser';
+import * as WebFont from 'webfontloader';
 
 export class BootState extends Phaser.State {
   stage: Phaser.Stage

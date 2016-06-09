@@ -1,4 +1,4 @@
-import * as Phaser from 'phaser'
+import * as Phaser from 'phaser';
 import {centerGameObjects} from '../utils.ts'
 
 export class SplashState extends Phaser.State {
